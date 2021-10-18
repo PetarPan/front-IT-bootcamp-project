@@ -71,27 +71,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Used Technologies: 
 
-  -HTML 5
-  -CSS 3
-  -JavaScript
-  -React
-    -react -dom
-    -react -icons
-    -react - router - dom
-    -react - scripts
-    -react - styled components
-   -JSON - server
+  -HTML 5;
+  -CSS 3;
+  -JavaScript;
+  -React;
+    -react -dom;
+    -react -icons;
+    -react - router - dom;
+    -react - scripts;
+    -react - styled components;
+   -JSON - server;
    -Axios
  
  In Plan to be Used:
  
-  -bycrypt
-  -uuid
-  -express
-  -oracledb
-  -bootstrap
-  -google maps
-  -chart.JS
+  -bycrypt;
+  -uuid;
+  -express;
+  -oracledb;
+  -bootstrap;
+  -google maps;
+  -chart.JS;
   -tilt.JS
   
   
