@@ -68,3 +68,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Used Technologies: 
+
+  -HTML 5
+  -CSS 3
+  -JavaScript
+  -React
+    -react -dom
+    -react -icons
+    -react - router - dom
+    -react - scripts
+    -react - styled components
+   -JSON - server
+   -Axios
+ 
+ In Plan to be Used:
+ 
+  -bycrypt
+  -uuid
+  -express
+  -oracledb
+  -bootstrap
+  -google maps
+  -chart.JS
+  -tilt.JS
+  
+  
+ Development Flow:
+  -day 1: Designing the layout of the application, creating routes, LogIn and Register pages;
+  -day 2: LogIn and Register validation, creating the layout of the Profile page and fill json database with data ;
+  -day 3: Creating Profile components: Profile, Calculation + validation, Change Password + validation, profile sidebar, Manual and their functionality, routing and LogOut button
+  -day 4: Adding external links to social networks, creating Contact component and connection to emailJS server
+  
+  Future Development:
+  - Creating and connect to real database (oraledb);
+  - Create Consumption Graph component via chart.JS for last 12 months;
+  - Create Invoice component where user will be able to see last 12 invoices (.pdf);
+  - End Manual component (.pdf or different)
+  - Change design of the application, create and style elements via Bootstrap;
+  - Add funcionality for checking in consumption by the user;
+  - Add a Responsive GoogleMap in Contact component
+  - Make a Full Responsive App
